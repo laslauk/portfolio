@@ -1,0 +1,174 @@
+#top-bar-bg
+{
+	height:200px;
+	background-color: blue;
+}
+
+body{
+	background-color:#e6e6e6;
+}
+
+footer
+{
+	margin:0;
+	padding:0;
+	text-align:center;
+	width:100%;
+	height:50px;
+	margin-top:30px;
+}
+
+#gitlink{
+	color:#9ca4ff;
+}
+
+footer p{
+	padding-top:20px;
+}
+
+#main-page-wrapper{
+	min-height: 83vh;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link
+{
+	color:orange;
+}
+
+.navbar-brand{
+	color:orange;
+}
+
+.active{
+	color:orange;
+}
+
+#bio-container{
+	margin-top:60px;
+}
+
+a:hover{
+	color:orange;
+}
+
+#skills-row{
+	width:80%;
+}
+
+.skills-list > h3{
+	margin-left:20px;
+}
+
+#picture
+{
+	height:300px;
+	position:relative;
+	top:20px;
+	left:30px;
+}
+
+
+
+#biomonkey{
+	margin-top:15%;
+	width:100%;
+	text-align:center;
+}
+
+
+.center{
+	text-align:center;
+}
+
+#about-row{
+	margin-top:40px;
+}
+
+.card
+{
+	border:none;
+}
+
+#skills-header{
+	
+	margin-top:70px;
+	margin-bottom:20px;
+}
+
+.skills-list > ul{
+	
+}
+
+
+@media (max-width: 767px)
+{
+	#picture
+	{
+		height:150px;
+		position:relative;
+		top:10px;
+		left:30%;
+	}
+
+}
+
+@media(max-width:576px)
+{
+
+}
+
+@media (max-width: 767px)
+{
+
+}
+
+@media (max-width: 991px)
+{
+	.skills-list > h3 {
+
+	}	
+
+	.skills-list > ul{
+
+	}
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+   
+    #picture{
+    	left:34%;
+    	margin-bottom:35px;
+
+    }
+
+    .skills-list > ul{
+
+    }
+
+    .skills-list > h3{
+    	border-top:1px solid gray;
+    	margin:0px;
+    	margin-top:20px;
+    	padding:15px;
+    }
+
+	#skills-header{
+		margin:0 auto;
+	}
+
+    li{
+
+    }
+}
+
+
+
+@media (max-width: 1200px)
+{
+	#skills-row
+	{
+		width:100%;
+	}
+}
+

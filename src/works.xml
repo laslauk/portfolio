@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project_list>
+
+<category>
+    <work_type>Web Dev</work_type>
+    <project>
+        <title>Dark Souls 3 Item Finder</title>
+        <gitlink>www.github.com</gitlink>
+        <image>ds3.jpg</image>
+        <description>
+        Allows the user to search DS3 armor 
+        and the site tells you where to obtain it.
+        Learn objective: PHP
+       </description>
+         <link>https://lasselaukkanen.com/stuff/dsitemfinder/</link>
+
+    </project>
+
+    <project>
+        <title>Coop Game List</title>
+        <gitlink>www.github.com</gitlink>
+        <image>coop.jpg</image>
+        <description>
+        A learning project for simple registering,
+        login and list management..
+        The site allows registered users to add and 
+        remove games to the list.
+        Learn objective: PHP, MySQL
+       </description>
+     <link>https://lasselaukkanen.com/stuff/coopgamelist/</link>
+    </project>
+
+
+    <project>
+        <title>Simple Text Adventure</title>
+        <gitlink>www.github.com</gitlink>
+        <image>textadv.jpg</image>
+        <description>
+            A simple text adventure.         
+            Learn objective: Javascript
+       </description>
+     <link>https://lasselaukkanen.com/stuff/textadventure/</link>
+    </project>
+</category>
+
+
+
+<category>
+    <work_type>Python</work_type>
+
+    <project>
+        <title>SimpleRPG - TKInter</title>
+        <gitlink>www.github.com</gitlink>
+        <image>simplerpg.jpg</image>
+        <description>
+            An optional GUI project for TTY’s Python Course.
+            I made an simple “RPG” Game with TKinter. 
+            <link></link>
+       </description>
+    </project>
+</category>
+
+
+
+<category>
+    <work_type>3D/2D</work_type>
+    <project>
+        <title>3D/2D Assets and Models</title>
+        <gitlink>www.github.com</gitlink>
+        <image>art.jpg</image>
+        <description>
+              Various assets for 3D and 2D
+              Tools: 3DS Max, Photoshop,
+       </description>
+    <link>https://lasselaukkanen.com/gallery/gallery_mainview.php</link>
+    </project>
+</category>
+
+
+<category>
+    <work_type>Animation</work_type>
+    <project>
+        <title>An Animation</title>
+        <gitlink></gitlink>
+        <image>animation.jpg</image>
+        <description>
+        A Final Turn in project for 3D Animation Course 
+        in Kyamk. 
+        Tools: 3DS Max, Photoshop,
+       </description>
+    <link>https://www.youtube.com/watch?v=UruIMOqSWkI</link>
+    </project>
+
+
+
+    <project>
+        <title>Faucet Man</title>
+        <gitlink></gitlink>
+        <image>faucet.jpg</image>
+        <description>
+
+        A small short animation for
+        3D Animation Course in Kyamk.
+        I produced all the 3D content and animation,
+        rest of the group designed the concept.
+       </description>
+       <link>https://www.youtube.com/watch?v=Pj82quLHuXs</link>
+    </project>
+
+
+    <project>
+        <title>Oskuman</title>
+        <gitlink></gitlink>
+        <image>oskuman.jpg</image>
+        <description>
+            A small short animation for
+            2D Animation Course in Kyamk.
+            A short megaman inspired animation based
+            on my friend who is now a robotman.
+            Tools: AE, Photoshop, 3DS Max, Premiere
+         </description>
+        <link>https://www.youtube.com/watch?v=uvaaw5PK6Ys</link>
+    </project>
+</category>
+
+</project_list>
